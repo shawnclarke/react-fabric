@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/prop-types": "^15.5.2",
     "@types/react": "^16.0.38",
     "@types/react-dom": "^16.0.4",
+    "office-ui-fabric-react": "^5.54.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
